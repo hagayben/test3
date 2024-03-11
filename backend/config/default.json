@@ -1,0 +1,15 @@
+{
+    "app": {
+        "name": "Board Meetings",
+        "port": 8080
+        
+    },
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "נoard_meetings",
+        "port": 3306,
+        "connectionLimit": 10
+    }
+}

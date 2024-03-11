@@ -1,0 +1,9 @@
+.Header {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: cursive;
+  font-size: large;
+  color: rgb(29, 43, 129);
+}

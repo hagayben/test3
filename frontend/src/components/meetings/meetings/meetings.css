@@ -1,0 +1,27 @@
+.meetings {
+	
+}
+
+.meetings table {
+    font-family: cursive, Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .meetings td, .meetings th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .meetings tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .meetings tr:hover {background-color: #ddd;}
+  
+  .meetings th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #0428aa;
+    color: white;
+    font-family: cursive
+  }
